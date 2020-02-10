@@ -22,7 +22,7 @@ Server
 1. Follow Othello base rule
 2. But the winning condition is that when the game is finished, the person with few stones wins.
 
-### Picture
+#### Picture
 1. Main
 <img width="339" alt="1" src="https://user-images.githubusercontent.com/50411472/74122016-180ccf80-4c0d-11ea-8998-51912b8bedf3.PNG">
 2. Local Player1 vs MINIMAX Algorithm
